@@ -1,4 +1,4 @@
-<H1> <?php 
+<?php 
 session_start();
 error_reporting(0);
 		$user = array(
